@@ -6,7 +6,6 @@ import cors from 'cors';
 
 const app = express();
 app.use(express.json());
-app.use('/books', booksRoute);
 
 // Middleware for handling CORS POLICY
 // Allow All Origins with Default of cors(*)
@@ -16,6 +15,7 @@ app.get('/', (request, response) => {
   console.log(request);
   return response.status(234).send('BookHub MERN Stack Application');
 });
+app.use('/books', booksRoute);
 
 mongoose
   .connect(mongoDBURL)
