@@ -43,7 +43,7 @@ BookHub is a comprehensive and user-friendly book store application. The backend
 • **Additional Tools:** Mongoose for ODM
 
 ### 🔺 License:
-Ownership of this project's license belongs with **Amidu Shamika**.For specific details,<br> 
+Ownership of this project's license belongs with **Amidu Shamika**.<br>For specific details, 
 **please consult the [LICENSE.md](https://github.com/Amidu99/BookHub-MERN-Stack/blob/main/LICENSE) file.** <br>
 **A$ | ©️-2024 ✔️™️**
 
