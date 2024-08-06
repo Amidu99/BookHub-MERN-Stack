@@ -86,7 +86,7 @@ const EditBook = () => {
           />
         </div>
         <button className='bg-sky-400 text-white p-2 m-8 rounded-xl hover:bg-sky-500 hover:shadow-lg transition duration-300 ease-in-out' onClick={handleEditBook}>
-          Save
+          Update
         </button>
       </div>
     </div>
