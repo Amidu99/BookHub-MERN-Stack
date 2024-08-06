@@ -55,9 +55,9 @@ Ownership of this project's license belongs with **Amidu Shamika**.For specific 
 ![14](https://github.com/user-attachments/assets/df3fd52b-0951-49ae-be8d-0f3644472012)
 ![15](https://github.com/user-attachments/assets/18ba97bd-1399-4579-8d0c-46390e9b3ee3)
 ![16](https://github.com/user-attachments/assets/29ce774e-ce7b-4228-813f-0463a8432be6)-->
-<img src="https://github.com/user-attachments/assets/573d7fba-f908-4185-8189-755f584057b0" width="425" alt="table list">
-<img src="https://github.com/user-attachments/assets/ecd66dee-e0b2-4ca3-91b6-2ae6bdc7781b" width="425" alt="card list"><br>
-<img src="https://github.com/user-attachments/assets/391382f4-1625-40d4-b1bd-779ce368fc3a" width="425" alt="add book">
-<img src="https://github.com/user-attachments/assets/df3fd52b-0951-49ae-be8d-0f3644472012" width="425" alt="book info"><br>
-<img src="https://github.com/user-attachments/assets/18ba97bd-1399-4579-8d0c-46390e9b3ee3" width="425" alt="update book">
-<img src="https://github.com/user-attachments/assets/29ce774e-ce7b-4228-813f-0463a8432be6" width="425" alt="delete book">
+<img src="https://github.com/user-attachments/assets/573d7fba-f908-4185-8189-755f584057b0" width="410" alt="table list">
+<img src="https://github.com/user-attachments/assets/ecd66dee-e0b2-4ca3-91b6-2ae6bdc7781b" width="410" alt="card list"><br>
+<img src="https://github.com/user-attachments/assets/391382f4-1625-40d4-b1bd-779ce368fc3a" width="410" alt="add book">
+<img src="https://github.com/user-attachments/assets/df3fd52b-0951-49ae-be8d-0f3644472012" width="410" alt="book info"><br>
+<img src="https://github.com/user-attachments/assets/18ba97bd-1399-4579-8d0c-46390e9b3ee3" width="410" alt="update book">
+<img src="https://github.com/user-attachments/assets/29ce774e-ce7b-4228-813f-0463a8432be6" width="410" alt="delete book">
