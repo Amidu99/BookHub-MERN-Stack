@@ -71,7 +71,7 @@ const Home = () => {
         </div>
       </Disclosure>
       <div className='p-4 bg-sky-200'>
-        <h1 className='text-4xl my-8 font-mono font-bold text-center'>Books List</h1>
+        <h1 className='text-4xl my-8 font-mono font-mono font-bold text-sky-900 text-center '>Books List</h1>
         {loading ? (
           <Spinner />
         ) : showType === 'table' ? (
